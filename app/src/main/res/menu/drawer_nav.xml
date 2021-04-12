@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ProfileDrawer"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"/>
+    <item
+        android:id="@+id/favoriteDrawer"
+        android:title="Favorite"
+        android:icon="@drawable/ic_favorite"/>
+    <item
+        android:id="@+id/inboxDrawer"
+        android:title="Inbox"
+        android:icon="@drawable/ic_inbox"/>
+    <item
+        android:id="@+id/SettingDrawer"
+        android:title="Setting"
+        android:icon="@drawable/ic_settings"/>
+    <item
+        android:id="@+id/helpDrawer"
+        android:title="Help"
+        android:icon="@drawable/ic_help"/>
+    <item
+        android:id="@+id/trashDrawer"
+        android:title="Trash"
+        android:icon="@drawable/ic_trash"/>
+    <item
+        android:id="@+id/logoutDrawer"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+</menu>
